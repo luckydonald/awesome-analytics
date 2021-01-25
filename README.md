@@ -101,6 +101,9 @@ Your feedback and contributions are always welcome! Maintained by [@onurakpolat]
 * [Inspeclet](https://www.inspectlet.com/) - another web app heatmaps tool.
 * [Mouseflow](http://mouseflow.com/) - live analytics and heatmaps.
 * [Session Cam](http://www.sessioncam.com/) - heatmaps analytics tool.
+* [Hotspots Analytics](https://github.com/danielpowney/hotspots-analytics), [Demo](https://danielpowney.com/projects/hotspots-analytics/?drawHeatmap=true), [Source Code](https://github.com/danielpowney/hotspots-analytics)) `GPL-2.0` `PHP`
+* [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
+* [userTrack](https://www.usertrack.net) - [Source Code](https://www.usertrack.net/pricing) `commercial Licence` `PHP`
 
 ## Analytics layers
 
